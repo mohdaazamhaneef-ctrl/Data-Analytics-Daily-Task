@@ -13,3 +13,4 @@ INSERT INTO Employees VALUES
 (105, 'Rohit', 24, 'Marketing', 32000),
 (106, 'Karan', 27, 'HR', 40000);
 SELECT * FROM Employees;
+
