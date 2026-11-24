@@ -52,6 +52,7 @@ INSERT INTO OrderDetails VALUES
 (2, 1002, 102, 1),
 (3, 1002, 103, 1),
 (4, 1003, 103, 1);
+
 -- All customers
 SELECT * FROM Customers;
 
